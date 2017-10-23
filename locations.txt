@@ -1,0 +1,10 @@
+1,You are in the corridor 2 on first floor.
+2,You are in room 2.
+3,You are in the corridor 1 on the first floor.
+4,You are in the toilet
+5,You are in room 1.
+6,You are on the stairs between first floor and ground floor.
+7,You are in the corridor on ground floor.
+8,You are in the saloon.
+9,You are in the kitchen.
+10,You are in front of the door.

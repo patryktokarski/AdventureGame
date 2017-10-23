@@ -1,0 +1,4 @@
+2,bottle,It contains water
+2,trash,Useless
+4,gun,You can need it in case of a fight
+8,key,You may need it to open the door
